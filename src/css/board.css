@@ -1,0 +1,67 @@
+
+  
+.board{
+   
+    display: grid;
+    width: 300px;
+    
+    grid-template-columns: auto auto auto;
+}
+  
+.input{
+    height: 33.33%;
+    width: 33.33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: whitesmoke;
+    font-family: 'Bellefair', serif;
+    
+    font-weight: 500;
+    font-size: 6rem;
+    cursor:pointer
+}
+  
+.input-1{
+    padding:20px;
+  border:3px solid palevioletred;
+}
+  
+.input-2{
+    padding:20px;
+    border:3px solid palevioletred;
+}
+  
+.input-3{
+    padding:20px;
+    border:3px solid palevioletred;
+}
+  
+.input-4{
+    padding:20px;
+    border:3px solid palevioletred;
+}
+  
+.input-5{
+    padding:20px;
+    border:3px solid palevioletred;
+}
+  
+.input-6{
+    padding:20px;
+    border:3px solid palevioletred;
+}
+  
+.input-7{
+    padding:20px;
+    border:3px solid palevioletred;
+}
+  
+.input-8{
+    padding:20px;
+    border:3px solid palevioletred;
+}
+.input-9{
+    padding:20px;
+    border:3px solid palevioletred;
+}
